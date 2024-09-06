@@ -1,6 +1,6 @@
-# Portfolio
+# MyFirstApp
 
-This is my portfolio page made with vanilla Javacript, HTML, CSS
+This is my first app page made with vanilla Javacript, HTML, CSS
 
 ## Description
 
